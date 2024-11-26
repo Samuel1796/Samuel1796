@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samuel Oduro Boakye</h1>
 <h3 align="center">A Computer Science and Engineering student from GHANA</h3>
 
-- 🌱 I’m currently learning **React + NodeJS and Flutter**
+- 🌱 I’m currently learning **React and Flutter**
 
 - 👨‍💻 All of my projects are available at [sboakye.vercel.app](sboakye.vercel.app)
 
