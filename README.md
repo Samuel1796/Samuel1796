@@ -1,26 +1,92 @@
-<h1 align="center">Hi 👋, I'm Samuel Oduro Boakye</h1>
-<h3 align="center">A Computer Science and Engineering student from GHANA</h3>
+# 👋 Hey there! I'm Samuel Oduro Boakye
 
-- 🌱 I’m currently learning **Flutter**
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Software+Engineer;Problem+Solver;Code+Craftsman)](https://git.io/typing-svg)
 
-- 👨‍💻 All of my projects are available at [sboakye.vercel.app](sboakye.vercel.app)
+</div>
 
-- 💬 Ask me about **React, Angular, and Flutter**
+---
 
-- 📫 How to reach me **sboakye1796@gmail.com**
+## 🚀 About Me
 
-- 📄 Know about my experiences [#](#)
+**Software Engineer** passionate about building clean, efficient solutions. I enjoy tackling complex problems and turning ideas into working software.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="www.linkedin.com/in/sboakye1796" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/samuel-oduro-boakye?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
-</p>
+```javascript
+const samuel = {
+    role: "Software Engineer",
+    location: "Ghana 🇬🇭",
+    focus: "Web & Mobile Development",
+    languages: ["JavaScript", "Dart", "C++"],
+    currentlyLearning: "Flutter"
+};
+```
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuel1796&show_icons=true&locale=en&layout=compact" alt="samuel1796" /></p>
+## 🛠️ Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samuel1796&show_icons=true&locale=en" alt="samuel1796" /></p>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samuel1796&" alt="samuel1796" /></p>
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### Frameworks & Tools
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Styling
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=samuel1796&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel1796&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=samuel1796&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7C3AED&line=06D6A0&point=FFC107"/>
+</div>
+
+---
+
+## 💭 Development Motto
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=2000&color=06D6A0&center=true&vCenter=true&width=600&height=60&lines=Slow+is+smooth%2C+smooth+is+fast" alt="Development Motto" />
+
+</div>
+
+---
+
+## 🌐 Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sboakye.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sboakye1796)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sboakye1796@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+**Thanks for visiting!** ✨
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=samuel1796.samuel1796&left_color=blue&right_color=green)
+
+</div>
