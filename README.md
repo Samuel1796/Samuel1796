@@ -85,7 +85,7 @@ const samuel = {
 
 <div align="center">
 
-**Thanks for visiting!** ✨
+**Thanks for visiting!** 
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=samuel1796.samuel1796&left_color=blue&right_color=green)
 
