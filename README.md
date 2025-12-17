@@ -17,7 +17,7 @@ const samuel = {
     role: "Software Engineer",
     location: "Ghana 🇬🇭",
     focus: "Web & Mobile Development",
-    languages: ["JavaScript", "Dart", "C++"],
+    languages: ["TypeScript", "Dart", "Java"],
     currentlyLearning: "Flutter"
 };
 ```
@@ -31,7 +31,7 @@ const samuel = {
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/Java-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-00599C?style=for-the-badge&logo=java%2B%2B&logoColor=white)
 
 ### Frameworks & Tools
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
